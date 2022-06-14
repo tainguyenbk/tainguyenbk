@@ -55,19 +55,16 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/nvtai0203" target="blank">
-    <img src="https://img.icons8.com/fluency/80/undefined/facebook-new.png" alt="tainguyenbk-facebook" />
+    <img src="https://img.icons8.com/fluency/60/undefined/facebook-new.png" alt="tainguyenbk-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UC8qzsKAvnvVHsBDTl5VWDAQ" target="blank">
-    <img src="https://img.icons8.com/fluency/80/undefined/youtube.png" alt="tainguyenbk-youtube" />
+    <img src="https://img.icons8.com/fluency/60/undefined/youtube.png" alt="tainguyenbk-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/tai-nguyenbk" target="blank">
-    <img src="https://img.icons8.com/fluency/80/undefined/linkedin.png" alt="tainguyenbk-linkedin" />
+    <img src="https://img.icons8.com/fluency/60/undefined/linkedin.png" alt="tainguyenbk-linkedin" />
   </a>
   <a href="https://www.instagram.com/nvtai0203/" target="blank">
-    <img src="https://img.icons8.com/fluency/80/undefined/instagram-new.png" alt="tainguyenbk-instagram" />
-  </a>
-  <a href="nvtai2399@gmail.com" target="top">
-    <img src="https://img.icons8.com/fluency/80/undefined/gmail-new.png" alt="tainguyenbk-email" />
+    <img src="https://img.icons8.com/fluency/60/undefined/instagram-new.png" alt="tainguyenbk-instagram" />
   </a>
 </div>
 
