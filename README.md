@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- tainguyenbk -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/tainguyenbk.svg" width="1200" alt="tainguyenbk-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -55,19 +55,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/nvtai0203" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tainguyenbk-facebook" />
+    <img src="https://img.icons8.com/fluency/80/undefined/facebook-new.png" alt="tainguyenbk-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UC8qzsKAvnvVHsBDTl5VWDAQ" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="tainguyenbk-youtube" />
+    <img src="https://img.icons8.com/fluency/80/undefined/youtube.png" alt="tainguyenbk-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/tai-nguyenbk" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tainguyenbk-linkedin" />
+    <img src="https://img.icons8.com/fluency/80/undefined/linkedin.png" alt="tainguyenbk-linkedin" />
   </a>
   <a href="https://www.instagram.com/nvtai0203/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tainguyenbk-instagram" />
+    <img src="https://img.icons8.com/fluency/80/undefined/instagram-new.png" alt="tainguyenbk-instagram" />
   </a>
   <a href="nvtai2399@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tainguyenbk-email" />
+    <img src="https://img.icons8.com/fluency/80/undefined/gmail-new.png" alt="tainguyenbk-email" />
   </a>
 </div>
 
@@ -76,6 +76,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="tainguyen-official" />
+  <img src="svg/tainguyenbk-quotes.svg" width="846" height="150" alt="tainguyen-official" />
 </a>
 
