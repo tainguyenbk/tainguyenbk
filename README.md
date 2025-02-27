@@ -12,29 +12,3 @@
   </a>
 </div>
 <br>
-
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://facebook.com/nvtai0203" target="blank">
-    <img src="https://img.icons8.com/fluency/60/undefined/facebook-new.png" alt="tainguyenbk-facebook" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC8qzsKAvnvVHsBDTl5VWDAQ" target="blank">
-    <img src="https://img.icons8.com/fluency/60/undefined/youtube.png" alt="tainguyenbk-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/tai-nguyenbk" target="blank">
-    <img src="https://img.icons8.com/fluency/60/undefined/linkedin.png" alt="tainguyenbk-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/nvtai0203/" target="blank">
-    <img src="https://img.icons8.com/fluency/60/undefined/instagram-new.png" alt="tainguyenbk-instagram" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/tainguyenbk-quotes.svg" width="846" height="150" alt="tainguyen-official" />
-</a>
